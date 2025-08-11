@@ -1,6 +1,6 @@
-# Starter app - React - Node
+README.md# Starter app - React - Node
 This starter app enables you to configure your app using Smartcar's popular vehicle endpoints. Your users will be able to authorize their vehicles, see details, and perform actions based on the properties you select in the configuration file!
-
+JUN AUTOMOTIVE GROUP 
 ## What you can expect:
 - The implementation of Smartcar Connect, allowing users to authorize vehicles through the Connect flow.
 - A sample application page displaying the authorized vehicles and providing users with the option to disconnect vehicles if desired.
